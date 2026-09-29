@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
