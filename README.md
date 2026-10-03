@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
