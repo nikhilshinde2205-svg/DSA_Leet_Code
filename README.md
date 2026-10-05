@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0989-add-to-array-form-of-integer) |
