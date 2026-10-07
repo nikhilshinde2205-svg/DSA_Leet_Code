@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0334-increasing-triplet-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
