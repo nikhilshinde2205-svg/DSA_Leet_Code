@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0989-add-to-array-form-of-integer) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
