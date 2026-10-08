@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
