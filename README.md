@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 ## Quickselect
 |  |
