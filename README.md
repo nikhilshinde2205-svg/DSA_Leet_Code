@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0316-remove-duplicate-letters) |
+| [0443-string-compression](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0443-string-compression) |
 ## Quickselect
 |  |
 | ------- |
