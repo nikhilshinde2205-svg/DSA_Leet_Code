@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quicksort
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0443-string-compression) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
 | ------- |
