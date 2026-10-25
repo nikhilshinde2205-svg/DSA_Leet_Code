@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Quickselect
 |  |
