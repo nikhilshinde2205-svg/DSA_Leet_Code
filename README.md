@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0189-rotate-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nikhilshinde2205-svg/DSA_Leet_Code/tree/master/0316-remove-duplicate-letters) |
